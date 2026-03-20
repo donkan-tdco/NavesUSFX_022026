@@ -1,0 +1,12 @@
+.vs/
+Intermediate/
+Saved/
+Binaries/
+Build/
+DerivedDataCache/
+*.sln
+*.db
+*.ipch
+*.obj
+*.pdb
+*.pch
